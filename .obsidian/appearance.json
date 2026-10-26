@@ -1,3 +1,7 @@
 {
-  "textFontFamily": "Ubuntu Mono"
+  "textFontFamily": "Ubuntu Mono",
+  "enabledCssSnippets": [
+    "hello",
+    "zi-font"
+  ]
 }

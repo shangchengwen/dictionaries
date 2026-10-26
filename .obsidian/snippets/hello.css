@@ -1,0 +1,73 @@
+:root {
+
+    --h1-color: var(--h1);
+    --h2-color: var(--h1);
+    --h3-color: var(--h1);
+    --h4-color: var(--h1);
+    --h5-color: var(--h1);
+    --h6-color: var(--h1);
+
+    --h1: #000000;
+    --h2: #014EB8;
+    --h3: #0E84F2;
+    --h4: #33C9FC;
+    --h5: #99E7FD;
+    --h6: #C8EBF6;
+}
+
+.HyperMD-header-1::before {
+    content: "h1 ";
+    font-size: 9px; /* 可根据需要调整大小 */
+}
+
+.HyperMD-header-2::before {
+    content: "h2 ";
+    font-size: 9px; /* 可根据需要调整大小 */
+}
+
+.HyperMD-header-3::before {
+    content: "h3 ";
+    font-size: 9px; /* 可根据需要调整大小 */
+}
+
+.HyperMD-header-4::before {
+    content: "h4 ";
+    font-size: 9px; /* 可根据需要调整大小 */
+}
+
+.HyperMD-header-5::before {
+    content: "h5 ";
+    font-size: 9px; /* 可根据需要调整大小 */
+}
+
+.HyperMD-header-6::before {
+    content: "h6 ";
+    font-size: 9px; /* 可根据需要调整大小 */
+}
+
+
+
+
+
+/*文章左对齐 方便右侧有更大的位置记笔记*/
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+    margin-left: 0;
+}
+
+/*设置行号大小*/
+.cm-gutterElement {
+    font-size: 9px;
+    width: 0px;
+}
+/*设置行号列宽*/
+.cm-lineNumbers {
+    width: 25px;
+}
+/*设置行号后面列宽*/
+.cm-gutters {
+    width: 0px;
+}
+/* 数字居左 */
+.ͼ1 .cm-lineNumbers .cm-gutterElement {
+    text-align: left;
+}

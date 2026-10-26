@@ -1,0 +1,12 @@
+{
+  "font_folder": "",
+  "interface_font": [],
+  "text_font": [],
+  "monospace_font": [],
+  "extra_fonts": [
+    ".obsidian/fonts/orac.woff2",
+    ".obsidian/fonts/seal.woff2"
+  ],
+  "emoji_support": true,
+  "force_mode": false
+}
