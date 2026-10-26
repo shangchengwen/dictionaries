@@ -214,30 +214,20 @@
   },
   "说文解字套装全五册/0001-0180.md": {
     "expandedKeys": [
-      "item-2-2",
       "item-1-17",
+      "item-1-294",
       "item-2-8",
-      "item-2-33",
-      "item-2-29",
-      "item-2-25",
-      "item-2-22",
-      "item-2-18",
-      "item-2-38",
-      "item-2-47",
-      "item-2-51",
-      "item-2-58",
-      "item-2-55",
-      "item-1-311"
+      "item-2-2"
     ],
-    "scroll": 2944.4226190476193,
+    "scroll": 449.7255537547272,
     "cursor": {
       "from": {
-        "line": 2957,
-        "ch": 92
+        "line": 457,
+        "ch": 0
       },
       "to": {
-        "line": 2957,
-        "ch": 92
+        "line": 457,
+        "ch": 0
       }
     }
   },
@@ -578,11 +568,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 2,
+        "line": 7,
         "ch": 0
       }
     }
@@ -638,7 +628,8 @@
         "ch": 9
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [],
+    "scroll": 0
   },
   "笔记/字/běn 本.md": {
     "cursor": {
@@ -651,5 +642,8 @@
         "ch": 14
       }
     }
+  },
+  "说文解字套装全五册/0181-0360.md": {
+    "expandedKeys": []
   }
 }
