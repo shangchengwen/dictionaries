@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"335c64a3175785da","type":"file","file":"笔记/木/木 mù.md","x":-216,"y":-274,"width":71,"height":50,"color":"4"},
+		{"id":"eb16ddb9c2724b8f","type":"file","file":"笔记/木/本 běn.md","x":-216,"y":-100,"width":71,"height":50,"color":"4"},
+		{"id":"c94671c3da6ef9cf","type":"file","file":"笔记/木/末 mò.md","x":-216,"y":-440,"width":71,"height":50,"color":"4"},
+		{"id":"6720aac0c64bb8d1","type":"file","file":"笔记/木/束 shù.md","x":-520,"y":-274,"width":71,"height":50,"color":"4"},
+		{"id":"5280c6c490db8032","type":"file","file":"笔记/木/朿 cì.md","x":140,"y":-274,"width":71,"height":50},
+		{"id":"0ecf4a8af8e64b08","type":"text","text":"","x":69,"y":-740,"width":71,"height":100},
+		{"id":"a35158650407d916","type":"text","text":"","x":-100,"y":-620,"width":130,"height":50},
+		{"id":"1a246e21bb313d34","type":"file","file":"笔记/木/刺 cì.md","x":403,"y":-274,"width":71,"height":50,"color":"4"},
+		{"id":"cb739299fd3ba7a7","type":"file","file":"笔记/木/枣棗 zǎo.md","x":403,"y":-420,"width":71,"height":50,"color":"4"},
+		{"id":"94b99d8deff8e691","type":"file","file":"笔记/木/棘 jí.md","x":403,"y":-100,"width":71,"height":50,"color":"4"},
+		{"id":"c0496e8615a5cd0e","x":-520,"y":-570,"width":71,"height":50,"color":"4","type":"file","file":"笔记/木/未 wèi.md"}
+	],
+	"edges":[
+		{"id":"36ceb55af6141c21","fromNode":"335c64a3175785da","fromSide":"top","toNode":"c94671c3da6ef9cf","toSide":"bottom","label":"指事：树梢叫末"},
+		{"id":"b6ec17466273e179","fromNode":"335c64a3175785da","fromSide":"bottom","toNode":"eb16ddb9c2724b8f","toSide":"top","label":"指事：树木下部叫本"},
+		{"id":"0515361de6494736","fromNode":"335c64a3175785da","fromSide":"left","toNode":"6720aac0c64bb8d1","toSide":"right","label":"会意：捆缚"},
+		{"id":"40f2533fe9f00b86","fromNode":"335c64a3175785da","fromSide":"right","toNode":"5280c6c490db8032","toSide":"left","label":"象形：树木的刺"},
+		{"id":"5bc883a9762b362b","fromNode":"5280c6c490db8032","fromSide":"right","toNode":"1a246e21bb313d34","toSide":"left","label":"今作刺"},
+		{"id":"94459071a6f37f71","fromNode":"5280c6c490db8032","fromSide":"right","toNode":"cb739299fd3ba7a7","toSide":"left","label":"枣树多刺"},
+		{"id":"a8b61a720f13601c","fromNode":"5280c6c490db8032","fromSide":"right","toNode":"94b99d8deff8e691","toSide":"left","label":"丛生的低小的酸枣树"},
+		{"id":"420347aad6689e5b","fromNode":"335c64a3175785da","fromSide":"left","toNode":"c0496e8615a5cd0e","toSide":"right","label":"象木重枝叶也"}
+	]
+}
