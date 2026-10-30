@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d95edc4046776204","x":-173,"y":-80,"width":250,"height":60,"type":"text","text":"马"},
+		{"id":"b8fab77227c6c865","x":-173,"y":-180,"width":250,"height":60,"type":"text","text":"牛"},
+		{"id":"3336b63c1e83d45e","x":-173,"y":-280,"width":250,"height":60,"type":"text","text":"羊"},
+		{"id":"444dae2bd79decac","x":-173,"y":20,"width":250,"height":60,"type":"text","text":"鸟"},
+		{"id":"d01478b9163d9a26","x":-173,"y":120,"width":250,"height":60,"type":"text","text":"虫"},
+		{"id":"b968186ef67338f1","x":-173,"y":220,"width":250,"height":60,"type":"text","text":"鱼"}
+	],
+	"edges":[]
+}
