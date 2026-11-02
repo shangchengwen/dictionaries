@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"e693000bc51a0080","type":"text","text":"","x":-240,"y":-199,"width":130,"height":50},
+		{"id":"ed70024a78f52d44","type":"text","text":"","x":-82,"y":-360,"width":71,"height":100},
+		{"id":"efecad53eb7aeb0c","type":"file","file":"笔记/水/水 shuǐ.md","x":-82,"y":60,"width":71,"height":50}
+	],
+	"edges":[]
+}
