@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"7d35a43c3fac498a","type":"file","file":"笔记/四方部落/戎 róng.md","x":-139,"y":-210,"width":93,"height":50},
+		{"id":"bb1ee263e8cdd077","type":"file","file":"笔记/四方部落/夷 yí.md","x":200,"y":-210,"width":87,"height":50},
+		{"id":"5fd25ad5b4babedb","x":48,"y":-356,"width":72,"height":50,"type":"file","file":"笔记/四方部落/狄 dí.md"},
+		{"id":"36c11328a6f50ed8","type":"file","file":"笔记/四方部落/蛮蠻 mán.md","x":48,"y":-40,"width":86,"height":50},
+		{"id":"7e0ff7eb910faff2","x":-160,"y":40,"width":83,"height":52,"type":"file","file":"笔记/四方部落/䜌 luán.md"}
+	],
+	"edges":[
+		{"id":"dc343a4161def34d","fromNode":"7e0ff7eb910faff2","fromSide":"right","toNode":"36c11328a6f50ed8","toSide":"left"}
+	]
+}
